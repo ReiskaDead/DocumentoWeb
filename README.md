@@ -12,4 +12,4 @@ Bienvenido al repositorio oficial del sistema de pedidos y gestión de envíos p
 * **📱 Interfaz Enfocada en UX:** Navegación clara, alertas informativas y flujo visual optimizado para el usuario final.
 
 ## Manual de Usuarios
-- [Ver Manual de Usuario UX](DocumentonWeb/manual_usuario_ux.md)
+- [Ver Manual de Usuario UX](docs/manual_usuario_ux.md)
