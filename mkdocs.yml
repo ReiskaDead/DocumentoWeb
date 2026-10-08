@@ -1,0 +1,4 @@
+site_name: Documentación Catálogo de Pastelería
+nav:
+  - Inicio: index.md
+  - Guía de Usuario UX: DocumentonWeb/manual_usuario_ux.md
