@@ -45,4 +45,4 @@ Para agregar pasteles a tu carrito, especificar la dirección de entrega y selec
 
 Para una explicación guiada sobre la instalación, navegación por el catálogo, inicio de sesión persistente y prueba de validación de logística de envíos, consulta el videotutorial oficial:
 
-📽️ **[Ver Videotutorial del Proyecto](videos\videotutorial_proyecto.mp4)**
+📽️ **[Descargar / Ver Videotutorial del Proyecto](videos/videotutorial_proyecto.mp4?raw=true)**
