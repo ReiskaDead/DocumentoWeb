@@ -38,3 +38,11 @@ Para agregar pasteles a tu carrito, especificar la dirección de entrega y selec
 4. **Confirmar Compra (4):** Presiona el botón verde **"💳 FINALIZAR COMPRA"** para procesar la orden. Verás un mensaje en pantalla confirmando el detalle y monto total de tu pedido.
 
 > **Nota de Seguridad:** Si seleccionas un vehículo que no soporta el peso total de tus pasteles o supera el límite de kilómetros, la aplicación mostrará una ventana flotante de error pidiéndote seleccionar un vehículo de mayor capacidad.
+>
+> ---
+
+## 4. Videotutorial del Proyecto
+
+Para una explicación guiada sobre la instalación, navegación por el catálogo, inicio de sesión persistente y prueba de validación de logística de envíos, consulta el videotutorial oficial:
+
+📽️ **[Ver Videotutorial del Proyecto](videos/videotutorial_proyecto.mp4)**
