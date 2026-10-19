@@ -1,4 +1,13 @@
 site_name: Documentación Catálogo de Pastelería
+site_author: Estudiantes de 3ro Software - Complejo Educativo Delgado
+theme:
+name: material
+language: es
 nav:
-  - Inicio: index.md
-  - Guía de Usuario UX: DocumentonWeb/manual_usuario_ux.md
+- Inicio: index.md
+- Manual de Usuario UX: manual_usuario_ux.md
+- Centro de Ayuda & Videos:
+- Preguntas Frecuentes (FAQ): faq.md
+- Especificaciones Técnicas:
+- Arquitectura y Despliegue: arquitectura_despliegue.md
+- Especificación de API: api_endpoints.md
