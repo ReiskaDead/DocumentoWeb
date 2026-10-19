@@ -13,3 +13,7 @@ Bienvenido al repositorio oficial del sistema de pedidos y gestión de envíos p
 
 ## Manual de Usuarios
 - [Ver Manual de Usuario UX](docs/manual_usuario_ux.md)
+- ## Licencia y Gobernanza
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o
+proponer mejoras.
